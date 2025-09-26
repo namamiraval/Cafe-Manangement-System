@@ -326,12 +326,13 @@ while cs == True:
     print("\n")
     print("----------------Details----------------")
     print("\n")
-    
-        
+
+
     for rows in ab:
         print("\n")
         print(rows)
 '''
+
 cnx.cursor()
     
     
