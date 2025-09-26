@@ -323,6 +323,7 @@ while cs == True:
 
 
     display="select * from Details;"
+    
     c.execute(display)
     ab = c.fetchall()
 
