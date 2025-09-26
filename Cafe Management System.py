@@ -316,6 +316,7 @@ while cs == True:
     sql="insert into Details(tb,name,order,merchandise,total)values(%s,%s,%s,%s,%s);"
     
     val=(tb,name,order,merchandise,total)
+    
     c.execute(sql,val)
     print("Record Inserted")
 
