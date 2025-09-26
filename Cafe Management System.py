@@ -309,6 +309,7 @@ while cs == True:
             cs=False
             break
             
+
 '''
     c.execute("create table Details(Tableno varchar(5) Primary key, Name varchar(50) Primary key, Order varchar(50), Merchandise varchar(50), Total_cost varchar(20));")
     sql="insert into Details(tb,name,order,merchandise,total)values(%s,%s,%s,%s,%s);"
@@ -316,6 +317,7 @@ while cs == True:
     c.execute(sql,val)
     print("Record Inserted")
 
+    
     display="select * from Details;"
     c.execute(display)
     ab = c.fetchall()
