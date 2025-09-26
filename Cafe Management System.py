@@ -318,6 +318,7 @@ while cs == True:
     val=(tb,name,order,merchandise,total)
     
     c.execute(sql,val)
+    
     print("Record Inserted")
 
 
