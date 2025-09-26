@@ -317,11 +317,12 @@ while cs == True:
     c.execute(sql,val)
     print("Record Inserted")
 
-    
+
     display="select * from Details;"
     c.execute(display)
     ab = c.fetchall()
 
+    
     print("\n")
     print("----------------Details----------------")
     print("\n")
