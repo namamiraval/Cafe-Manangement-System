@@ -281,7 +281,6 @@ while cs == True:
         else:
             print("Invalid Entry, enter CASH/CARD in blockletters")
                     
-
     oppo = True
     while oppo == True:
         print("\n\nHow can we help you today?\n")
