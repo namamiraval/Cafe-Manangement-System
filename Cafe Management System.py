@@ -328,7 +328,6 @@ while cs == True:
     
     ab = c.fetchall()
 
-    
     print("\n")
     print("----------------Details----------------")
     print("\n")
