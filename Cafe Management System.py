@@ -321,7 +321,7 @@ while cs == True:
     
     print("Record Inserted")
 
-
+    
     display="select * from Details;"
     
     c.execute(display)
