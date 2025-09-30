@@ -212,7 +212,6 @@ while cs == True:
             print("Sorry, Invalid Entry:")
 
           
-
     def merchandise():
         merchandise=[]
         mamt=[]
