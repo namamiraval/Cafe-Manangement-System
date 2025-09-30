@@ -48,7 +48,6 @@ while cs == True:
         Through the months of the Covid-19 pandemic, employees have been given access to nutritional supplementation in the form of vitamins and medication to boost
         their immunity.""")
 
-         
     def Menu():   
         '''c.execute("create table CornerHouse(No int(3) Not Null, Name varchar(20) Not Null, Quantity varchar(10), Price decimal(6,2) );")
         try:
