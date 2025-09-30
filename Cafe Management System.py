@@ -201,8 +201,7 @@ while cs == True:
                      break
                  else:
                     print("Invalid Entry")
-                
-                 
+                   
         sum=0
         for i in amt:
             sum=sum+i
