@@ -230,12 +230,13 @@ while cs == True:
                     mquantity=int(input("How many would you like: "))
                     a=mquantity*250
                     mamt.append(a)
-                    
+
                 elif mchoice==2:
                     merchandise.append("Copper Pin Stainless-Steel Tumbler - 20 fl oz")
                     mquantity=int(input("How many would you like: "))
                     a=mquantity*340
                     mamt.append(a)
+                    
                 elif mchoice==3:
                     merchandise.append("Drink-Thru Band Stainless-Steel Tumbler - 16 fl oz")
                     mquantity=int(input("How many would you like: "))
