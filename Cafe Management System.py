@@ -210,7 +210,6 @@ while cs == True:
                 
         while n1==0 or n1>16:
             print("Sorry, Invalid Entry:")
-
           
     def merchandise():
         merchandise=[]
